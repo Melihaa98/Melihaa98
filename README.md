@@ -1,8 +1,8 @@
 ### Welcome to my profile, I'm Meliha.
-### Aspiring data analyst. /n
-🌱 I’m currently learning SQL,Data Visulization in Tableau and Excel,Python for Data Analysis. /n
-🔭 I’m currently working on projects in SQL and Python to display my knowledge.
-You can check my Tableau profila and see my Vizzes -->  https://public.tableau.com/app/profile/meliha.pa.i.dzafi.
+### Aspiring data analyst. 
+## 🌱 I’m currently learning SQL,Data Visulization in Tableau and Excel,Python for Data Analysis. /n
+## 🔭 I’m currently working on projects in SQL and Python to display my knowledge.
+## You can check my Tableau profila and see my Vizzes -->  https://public.tableau.com/app/profile/meliha.pa.i.dzafi.
 <!--
 **Melihaa98/Melihaa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
