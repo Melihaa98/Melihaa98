@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meliha</h1>
-<h3 align="center">A passionate data analyst currently living in Germany</h3>
+<h3 align="center">A graduated electrical engineer with passion for data analysis and data engineering</h3>
 
 - 🔭 I’m currently working on **projects in SQL and Python to display my knowledge**
 
